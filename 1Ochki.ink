@@ -4,9 +4,7 @@ VAR player_name_ploho = "Незнайка"
 VAR player_name_norm = "Старайка"
 VAR player_name_otl = "Знайка"
 
-
 -> glava_1
-
 === glava_1 ===
 Кот: Правда ли, что в космосе до Гагарина побывала собака Звездочка?
 
@@ -15,11 +13,9 @@ VAR player_name_otl = "Знайка"
         ~ score = score + 1 // добавилось 1 очко за правильный ответ
     -> glava_2
 
-
     * [Нет] 
         Кот: Это был неверный ответ.
-
-        -> glava_2
+        -> glava_1
 
 
 
