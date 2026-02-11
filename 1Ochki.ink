@@ -292,6 +292,6 @@ VAR player_name_otl = "Знаток Космических Секретов"
 
 -> END
 
-=== END ===
-#Location: fon18
+
+
 
