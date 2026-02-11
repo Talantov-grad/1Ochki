@@ -1,8 +1,7 @@
 VAR score = 0 
-VAR player_name = "Космический игрок" 
-VAR player_name_ploho = "Гражданин Галактики"
-VAR player_name_norm = "Кандидат в Знатоки"
-VAR player_name_otl = "Знаток Космических Секретов"
+VAR player_name_ploho = 5
+VAR player_name_norm = 10
+VAR player_name_otl = 15
 
 -> start
 === start ===
